@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# Compiled output
+ios/build/
+android/build/
+android/app/build/
+
+# Bundle artifacts
+*.jsbundle
+*.map
+
+# Debug logs
+*.log
+
+# Environment variables
+.env*
+
+# Miscellaneous
+.DS_Store
+npm-debug.log*
+yarn-error.log*
